@@ -48,3 +48,9 @@ h1, h2, h3, h4 {
 .comment {
     margin: 20px 0px 20px 20px;
 }
+
+.body{
+    background-color: : rgb(4,60,69);
+    background-color: : linear-gradient(90deg, rgba(4,60,69,1) 0%, rgba(30,109,207,1) 27%, rgba(168,70,186,1) 100%);
+
+}
